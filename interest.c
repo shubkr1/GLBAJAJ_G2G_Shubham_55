@@ -1,5 +1,5 @@
 #include <math.h>
-
+#include<stdio.h>
 int main() {
     float p, r, t;
     float si, ci, amount;
@@ -23,4 +23,5 @@ int main() {
     printf("\nCompound Interest = %.2f", ci);
 
     return 0;
+
 }
