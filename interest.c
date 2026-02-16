@@ -1,5 +1,5 @@
 #include <math.h>
-#include<stdio.h>
+#include <stdio.h>
 int main() {
     float p, r, t;
     float si, ci, amount;
@@ -25,3 +25,4 @@ int main() {
     return 0;
 
 }
+
